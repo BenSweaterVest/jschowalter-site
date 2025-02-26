@@ -1,2 +1,0 @@
-# jschowalter-site
-jschowalter-site
